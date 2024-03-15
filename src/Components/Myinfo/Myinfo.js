@@ -36,7 +36,7 @@ function Myinfo() {
                                 </h2>
                             </AnimationOnScroll>
                             <AnimationOnScroll animateIn="animate__fadeInUp">
-                                <p className='pt-4'>As an aspiring professional currently enrolled in a Full Stack development course, I am actively pursuing opportunities to leverage my skills and contribute to organizational growth. Eager to secure a position in a forward-thinking company where I can initiate my career journey and cultivate a robust skill set. I am committed to making a meaningful impact and adding value to a dynamic team.</p>
+                                <p className='pt-4'>As an aspiring professional currently enrolled in a Full Stack development course, I am actively pursuing opportunities to leverage my skills and contribute to organizational growth. Eager to secure a position in a forward-thinking company where I can initiate my career journey and cultivate a robust skill set. I am committed to making a meaningful impact and adding value to a dynamic teams.</p>
                             </AnimationOnScroll>
                             <AnimationOnScroll animateIn="animate__fadeInUp">
                                 <div className="myinfo-btn d-md-flex d-block m-auto pt-4">
